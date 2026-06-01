@@ -1,5 +1,5 @@
 # games-repository
-**English****[Chinese](readme_chinese.md)**
+[中文版](README_CHINESE.md)
 As the name puts it,this is a repo for everyone to download certain games freely and for free.
 ## How to download
 It is recommended to use `git clone` or something identical to download what you want.\
