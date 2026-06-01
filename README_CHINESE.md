@@ -1,5 +1,5 @@
 # games-repository
-[English Ver](README.md)
+[English Ver](README.md)\
 顾名思义，这是一个供所有人免费下载特定游戏的资源库。
 ## 如何下载
 建议使用 `git clone` 或类似命令下载所需文件。\
