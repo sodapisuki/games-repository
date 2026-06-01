@@ -1,2 +1,2 @@
 # games-reponsitory
-A reponsitory used for downloading games
+A branch for Summer-Life in the Countryside
