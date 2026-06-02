@@ -1,2 +1,2 @@
 # games-reponsitory
-A reponsitory used for downloading games
+This is the branch for Cauldron Flames
